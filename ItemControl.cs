@@ -17,15 +17,15 @@ namespace lika_laba3
             set => i.Text = value.ToString();
         }
 
-        public double Cost
+        public int Cost
         {
-            get => double.Parse(c.Text);
+            get => int.Parse(c.Text);
             set => c.Text = value.ToString();
         }
        
-        public double Weight
+        public int Weight
         {
-            get => double.Parse(w.Text);
+            get => int.Parse(w.Text);
             set => w.Text = value.ToString();
         }
         
