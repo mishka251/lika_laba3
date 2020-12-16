@@ -33,11 +33,11 @@ namespace lika_laba3
             var data =
                 new Item[]
                 {
-                    new Item() {w = 4, c = 40},
-                    new Item() {w = 5, c = 49},
-                    new Item() {w = 7, c = 50},
-                    new Item() {w = 8, c = 51},
-                    new Item() {w = 9, c = 53},
+                    new Item() {w = 6, c = 10},
+                    new Item() {w = 7, c = 25},
+                    new Item() {w = 9, c = 30},
+                    new Item() {w = 10, c = 29},
+                    new Item() {w = 12, c = 31},
                 };
 
             for (int i = 0; i < data.Length; i++)

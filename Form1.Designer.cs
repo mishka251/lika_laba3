@@ -60,7 +60,7 @@
             this.tbY.Name = "tbY";
             this.tbY.Size = new System.Drawing.Size(147, 20);
             this.tbY.TabIndex = 1;
-            this.tbY.Text = "32";
+            this.tbY.Text = "46";
             // 
             // panel1
             // 
